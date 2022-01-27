@@ -31,7 +31,8 @@ studies
 - Done
 
 #### Problem Space ✅
-- Web Design What Do You Think
+- Web Design? What Do You Think?
+- How about upgrade an ecommerce website (hp.com they doesn't look very efficeient to me)
 
 #### Requirements
  
