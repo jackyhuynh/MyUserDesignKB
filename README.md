@@ -1,33 +1,15 @@
-# TEMPLATE GENERAL
+# Human Computer Interface Research
 
-## Introduction
-Please look for other README.md file if you are intereted any specific languages, then delete all the other README.md file 
-and rename it to README.md . Introduce the project scope and purpose. You can also keep this private and organize this GitHub as a private libary for yourself.
+## Set up for communcation and work Space
+### How to Navigate through GitHub
+<img src='images/instruction.JPG'>
+### How we can commuicate:
+- Slack/Discord
+- [Click to join meeting for Slack](https://join.slack.com/t/humaninterfac-uiv5452/shared_invite/zt-12behkwtz-dMhX22kVD_Cg_rq1MVa2pQ)
 
+### How we can collaborate:
+- GitHub: Git can record what we did in log form. We do not have to worry about going back in time
 
-## Documents/Research Paper
-Link your research paper <a href="https://github.com/jackyhuynh/template-git-jupiter-notebook-md/blob/main/documents/resarch-sample.pdf">here</a> if you need
-
-## Technology
-List of technology
-
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-What things you need to install the software and how to install them
-
-### Installing
-A step by step series of examples that tell you how to get a development enviroment running
-
-## Running the tests
-Explain how to run the automated tests for this system:
-
-## Deployment
-How to deploy the app
-
-## Built With
-* Tools?
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
