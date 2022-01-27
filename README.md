@@ -11,18 +11,59 @@ range of skills that is needed for HCI work.
 - Iteration /polished product (6%) – Documentation that illustrates the notable changes/lessons learned from the first Iteration and the user 
 studies
 
+## Phase:
+- Phase 1 – Form Group and Project ✅
+- Phase 2 – Requirements and First Prototype
+- Phase 3 – Test and Evaluate
+- Phase 4 – Implement changes, finish
+
+## Tasks
+- Form Groups ✅
+- Problem Space ✅
+- Requirements
+- Design Alternatives
+- Prototypes
+- Testing Design/ Evaluating Design
+- [Presentation](#)
+- Final Deliverables
+
+#### Form Groups ✅
+- Done
+
+#### Problem Space ✅
+- Web Design What Do You Think
+
+#### Requirements
+ 
+#### Design Alternatives
+- if go with ecommerce what we need to do?
+- 
+#### Prototypes
+
+#### Testing Design/ Evaluating Design
+
+#### Presentation
+
+#### Final Deliverables
+- Tools:
+- Requirements:
+```
+Final App should be functional than just a prototype.
+- HTML, CSS, JavaScript, Python (Flask) ???
+
+```
+
 ## Set up for communcation and work Space
 
 ### How to Navigate in this GitHub Repo
 <img src='images/instruction.JPG'>
 
 ### How we can commuicate:
-- Slack/Discord
+- Slack/Discord ???
 - [Click to join meeting for Slack](https://join.slack.com/t/humaninterfac-uiv5452/shared_invite/zt-12behkwtz-dMhX22kVD_Cg_rq1MVa2pQ)
 
 ### How we can collaborate:
 - GitHub: Git can record what we did in log form. We do not have to worry about going back in time
-
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
