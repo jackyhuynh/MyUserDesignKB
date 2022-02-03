@@ -38,7 +38,7 @@ studies
  
 #### Design Alternatives
 - if go with ecommerce what we need to do?
-- 
+
 #### Prototypes
 
 #### Testing Design/ Evaluating Design
