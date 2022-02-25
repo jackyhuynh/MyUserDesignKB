@@ -185,5 +185,19 @@ Answer these four questions through the lens of both personas created in questio
 + Printer: less than $ 300 
 ```
 
-To ensure each member of the group contributes, each task will also come with a ‘group member evaluation’ survey for you to fill out. Group members who do not contribute will receive a lower score at the instructor’s discretion. 
+## Group evaluations:
+### Truc Huynh
 
+<img src="images/truc.jpg" height="400" width="320">
+
+### Aaron
+
+<img src="images/aaron.jpg" height="400" width="320">
+
+### Rushitaa
+
+<img src="images/rushitaa.png" height="400" width="320">
+
+### Varshitha
+
+<img src="images/varshitha.png" height="400" width="320">
