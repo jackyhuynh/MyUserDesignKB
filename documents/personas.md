@@ -75,10 +75,12 @@
   - Customer, Personal Use
   - 22 years old female
   - Lives in Fort Wayne, Indiana
-  - Married with 2 children
-  - Has 1 brother and 2 sisters
-  - Own a trading company
+  - Single with no children
+  - Computer Sciences Students at PFW
+  - Pay for his tuition
+  - Working part-time at a teaching assistant
   - Has a low-income level
+  - Live in dom
 
 ##### Personality Traits (3):
   - Purposeful
