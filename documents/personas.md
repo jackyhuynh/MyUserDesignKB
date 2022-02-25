@@ -6,7 +6,7 @@
 - Rushitaa Dattuluri
 - Varshitha Yedla Reddy
 
-## User Personas:
+## I) User Personas:
 ### User 1:
 
 ##### Name:
@@ -51,6 +51,7 @@
   - For Clients: 
     - Peter wants the products price is cheapest as much as possible (cheap but must meet requirements)
     - Discount if buy in bunk
+    - Able to retrieve his orders in a timely manner(few click and short)
   - For himself
     - Want to make sure that the product works as fast as his mind (Demanding).
     - The hardware should have longer durability (battery, keyboard, etc.)
@@ -72,7 +73,7 @@
 <img src="images/student1.jpg">
 
 ##### Demographic: 
-  - Customer, Personal Use
+  - Customer, Personal Use, school work
   - 22 years old female
   - Lives in Fort Wayne, Indiana
   - Single with no children
@@ -80,6 +81,7 @@
   - Pay for her tuition, and rent
   - Working part-time at a teaching assistant, and cashier
   - Has a low-income level
+  - Play video games
   - Live in dom
 
 ##### Personality Traits (3):
@@ -88,11 +90,100 @@
   - Purposeful
   - Scholarly
   - Shy
+  - tech-savvy
+  - “Not so impulsive” buyer
+  - Interested in business and global affairs 
+  - Detail-oriented 
+  - Has a liking for design and aesthetics
   - Summary:
     
-    Nancy is a students of computer 
+    Nancy is an undergraduate in computer science at Purdue University Fort Wayne. She's 21 years old and working two part-time jobs to pay for her tuition and housing. Nancy currently has a student loan and lives on a tight budget.  Her parents live in Georgia. 
+  
+    Nancy is working part-time as a teaching assistant and a cashier at a local store. Nancy wants to purchase a new computer for her schoolwork, and she is looking for a high-end computer. She intends to use her new computer for the next coming school-year and after graduation.
+    
+    Nancy is interested in tech and she loves an element computer with great graphic (MacBook for example)
 
 ##### User's motivations (3):
 
+  - Lookout for products and services that increase efficiency
+  - has an eye for affordable yet fancy-looking items
+  - Looking for products with a higher lifespan
+  - Students discount because of tight budgets
 
 ##### Limitations (3):
+
+  - shoestring budget
+  - impatient
+  - tentative and indecisive
+
+### Functional requirements (10):
+
+#### Peter Huynh (entrepreneur):
+  - As a customer I want the website to be user-friendly and easy to navigate
+  - As a customer I want the website to have relevant categories in each tab 
+  - As a customer I would like the website to display my orders and order history
+  - As a customer I would like the website to be quick in response and loading the information.
+  - As a customer I want to see all my discount show up.
+
+#### Nancy Vera (computer science student):
+  - As a customer, I want the website to have a mobile responsive design so that it is easier for making purchases through mobile.
+  - As a customer, I want the website to log me in using my google or Facebook account as it is less time-consuming.
+  - As a customer, I want the website to allow UPI payments so that it is faster and more secure.
+  - As a customer, I want the website to display the product attributes when viewing the product.
+  - As a customer, I want the website to display recommended items based on my previous purchases and searches.
+  - As a customer, I want each step to be self-explanatory and minimal so that my entire attention is on the product and not on figuring out the working of the website.
+
+## II) Requirements
+  - As a customer I would like the website to display my orders and order history.
+  - As a customer, I want each step to be self-explanatory and minimal so that my entire attention is on the product and not on figuring out the working of the website.
+  - As a customer I want the website to be user-friendly and easy to navigate.
+  - As a customer I want the website to have relevant categories in each tab.
+  - As a customer, I want the website to display the product attributes when viewing the product.
+
+## User’s Relationship with the Product: 
+Answer these four questions through the lens of both personas created in question:
+#### 1) How will the user interact with the product?
+- Through hp.com website where we list all the possible products (laptop, desktop, gaming computer(laptop, desktop), printer...) 
+
+#### 2) What need will the product satisfy for the user?
+- It helps the customers to shop from the comfort of their own homes. 
+- Helps them research more about the different products available in the market.
+- Can make the purchase at their own pace and hence have no regrets after the purchase is done.
+
+#### 3) How is the user currently satisfying this need?
+- Cheapest price possible with best performance
+- Elegant look and feel
+
+#### 4) How much will the user be willing to spend on the product?
+- Peter Huynh:
+```diff
+- Business Use
++ Desktop: less than $ 1000
++ Laptop: less than $ 800
++ Printer: less than $ 200
++ Looking for bunk discount
+
+- Personal Use:
++ Desktop: less than $ 2000
++ Laptop: less than $ 2200
+
+- Personal Use:
++ Desktop Gaming: less than $ 2000
++ Laptop Gaming: less than $ 1800
++ Printer: less than $ 300 
+```
+- Office: Considering how big or small the business is, we are assuming our target purchases to be between 10-200 units of PC, printers, scanners, etc.
+
+
+- Nancy Vera:
+```diff
+- Personal Use:
++ Desktop: less than $ $600-$750
++ Laptop: less than $ 200
++ Desktop Gaming: less than $ 2000
++ Laptop Gaming: less than $ 1800
++ Printer: less than $ 300 
+```
+
+To ensure each member of the group contributes, each task will also come with a ‘group member evaluation’ survey for you to fill out. Group members who do not contribute will receive a lower score at the instructor’s discretion. 
+
