@@ -40,6 +40,9 @@ studies
 #### Design Alternatives
 - if go with ecommerce what we need to do?
 
+#### Personality Traits:
+<img src="/images/personality-traits.jpg">
+
 #### Prototypes
 
 #### Testing Design/ Evaluating Design
