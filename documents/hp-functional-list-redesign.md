@@ -16,16 +16,16 @@
 │   ├── Business Purchasing Deals
 │   ├── Public Sector Purchasing
 │   └── Retail Solution
-├── Shop Gaming/
+├── Gaming/
 │   ├── Omen Destop
 │   ├── Omen Laptop
 │   ├── Gaming Monitors
 │   └── Gaming Accessories
-├── Shop Everyday PC/
+├── Everyday PC/
 │   ├── Desktops
 │   ├── Laptops
 │   └── Chromebooks
-├── Shop Work Station/
+├── Work Station/
 │   ├── Business Laptops
 │   ├── Business Desktops
 │   └── Z Workstations
