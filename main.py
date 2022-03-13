@@ -22,5 +22,36 @@ def home_page():
     return render_template("index.html")
 
 
+@app.route('/register', methods=["GET", "POST"])
+def register():
+    return render_template("index.html")
+
+
+@app.route('/login', methods=["GET", "POST"])
+def login():
+    return render_template("#")
+
+
+@app.route('/logout')
+def logout():
+    logout_user()
+    return redirect('#')
+
+
+@app.route("/post/<int:post_id>", methods=["GET", "POST"])
+def show_post(post_id):
+    return render_template("#")
+
+
+@app.route("/about")
+def about():
+    return render_template("#")
+
+
+@app.route("/contact")
+def contact():
+    return render_template("#")
+
+
 if __name__ == "__main__":
     app.run(debug=True)
