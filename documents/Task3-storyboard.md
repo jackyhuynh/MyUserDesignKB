@@ -1,7 +1,7 @@
 # Personas
 
 ## GROUP-6
-- Truc Hunyh
+- Truc Huynh
 - Aaron Rich
 - Rushitaa Dattuluri
 - Varshitha Yedla Reddy
