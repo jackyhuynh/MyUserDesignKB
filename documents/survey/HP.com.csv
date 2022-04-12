@@ -1,8 +1,23 @@
-"Timestamp","Age","Sex","How easy was it to locate and to complete the login process?","How easy was it to locate and to select a Desktop computer?","How easy was it to navigate the product?","How easy was it to checkout your cart?","If there was one feature you could change on ""HP.com"" what would it be?","Any other comments?"
-"2022/04/08 5:32:46 PM AST","18-22","Female","2","4","2","4","","Too difficult to click ""select"""
-"2022/04/08 8:25:52 PM AST","22-29","Female","5","5","5","5","Design could be done better",""
-"2022/04/08 8:27:41 PM AST","22-29","Female","5","5","5","5","",""
-"2022/04/08 8:30:46 PM AST","22-29","Female","5","5","5","5","can be made more interactive",""
-"2022/04/08 8:31:17 PM AST","22-29","Male","5","5","5","5","",""
-"2022/04/08 8:31:36 PM AST","22-29","Male","5","5","5","5","",""
-"2022/04/08 8:31:50 PM AST","22-29","Male","5","5","5","5","",""
+Using Google from to take the survey and export the survey to CSV format to validate the result. Link to the survey: https://forms.gle/bcBb6k6Bmao9fYMk7,,,,,,,,
+SURVEY,,,,,,,,
+Timestamp,Age,Sex,How easy was it to locate and complete the login process?,How easy was it to locate and to select a Desktop computer?,How easy was it to navigate the product?,How easy was it to checkout your cart?,"If there was one feature you could change on ""HP.com"" what would it be?",Any other comments?
+2022/04/08 5:32:46 PM AST,18-22,Female,2,4,2,4,,"Too difficult to click ""select"""
+2022/04/08 8:25:52 PM AST,22-29,Female,5,5,5,5,Design could be done better,
+2022/04/08 8:27:41 PM AST,22-29,Female,5,5,5,5,,
+2022/04/08 8:30:46 PM AST,22-29,Female,5,5,5,5,can be made more interactive,
+2022/04/08 8:31:17 PM AST,22-29,Male,5,5,5,5,,
+2022/04/08 8:31:36 PM AST,22-29,Male,5,5,5,5,,
+2022/04/08 8:31:50 PM AST,22-29,Male,5,5,5,5,,
+,,,,,,,,
+,,,,,SUMMARY,,,
+,,,,,Question,,,Ratio
+,,,,,How easy was it to locate and complete the login?,,,91%
+,,,,,How easy was it to locate and to select a Desktop?,,,97%
+,,,,,How easy was it to navigate the product?,,,91%
+,,,,,How easy was it to checkout your cart?,,,97%
+,,,,,,,,
+,,,,,,,,
+,,,,,RESULT,,,
+,,,,,"The Results show more than 90% agree with our design, so we can proceed with further steps. However, small changes can be made based on recommendations (more interactive).",,,
+,,,,,,,,
+,,,,,,,,
