@@ -1,4 +1,4 @@
-# Human Computer Interface Research
+# HP Prototype
 
 ## [HP Prototype](https://www.figma.com/file/CuQb0Mk5oNUXyj5N5ervhD/HP.com?node-id=199%3A910)
 
