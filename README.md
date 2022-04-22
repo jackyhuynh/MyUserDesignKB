@@ -2,16 +2,8 @@
 
 ## [HP Prototype](https://www.figma.com/file/CuQb0Mk5oNUXyj5N5ervhD/HP.com?node-id=199%3A910)
 
-## Grading Project:
-- Semester Project (40% of overall grade – broken down below): There is a semester-long project that gives you an opportunity to develop the full 
-range of skills that is needed for HCI work.
-- Elevator Pitch (5%) – 30 second pitch to garner support from a Stakeholder or VC
-- User Study I (7%) – Design and run a user study
-- Initial Design prototype (10%) – Low Fidelity that can be shown to users
-- User Study II (7%) – Design and run a follow up user study
-- High Fidelity Prototype (5 %) - Working prototype 
-- Iteration /polished product (6%) – Documentation that illustrates the notable changes/lessons learned from the first Iteration and the user 
-studies
+## Introduction
+A Prototype of HP.com redesign
 
 ## Phase:
 - Phase 1 – Form Group and Project ✅
