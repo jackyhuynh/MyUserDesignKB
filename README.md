@@ -29,7 +29,6 @@ A Prototype of HP.com redesign
 - How about upgrade an ecommerce website (hp.com they doesn't look very efficeient to me)
 
 #### Requirements
-- Task 1: [documents](https://ind657-my.sharepoint.com/:w:/g/personal/huyntl02_pfw_edu/EYzoQR0YaiJNgZKrPOAXBOgBNg605YOvDfJplSy5hFLN5A?e=Z3eiiq)
 
 #### Design Alternatives
 - if go with ecommerce what we need to do?
